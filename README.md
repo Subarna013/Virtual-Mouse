@@ -19,3 +19,4 @@ Install the necessary Python packages using:
 pip install deep-translator
 
 
+Made with ❤️ by Subarna013

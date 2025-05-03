@@ -18,4 +18,4 @@ Install the necessary Python packages using:
 ```bash
 pip install deep-translator
 
-**## Made with ❤️ by Subarna013**
+

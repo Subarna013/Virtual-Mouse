@@ -1,4 +1,4 @@
-# Angle and Distance Calculation Utilities
+# **Angle and Distance Calculation Utilities**
 
 This Python module provides simple utility functions to calculate:
 
